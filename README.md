@@ -1,5 +1,5 @@
 # onedwm
-merge multi patch as one patch for dwm
+get multi patch as one patch for dwm
 -------
 ## dwm version
   - commit: `2a28c31` 
@@ -13,6 +13,9 @@ merge multi patch as one patch for dwm
 ## available
   - [x] [1](https://raw.githubusercontent.com/one-patch/onedwm/master/patchs/1000.diff): padding pertag stack<->master notitle status2d pango
 
+--------
+## demande new patch 
+if you need any combinaison of multi patchs you can open issue to demande it
 --------
 ## how to contribute
   - get **dwm** `6.3`
