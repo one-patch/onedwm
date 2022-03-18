@@ -6,7 +6,7 @@ merge multi patch as one patch for dwm
   - version `6.3`
 -------
 ## available
-  - [x] [1](https://raw.githubusercontent.com/one-patch/onedwm/master/patchs/1000.diff): `padding` `pertag` `stack<->master` `notitle` `status2d` `pango`
+  - [x] [1](https://raw.githubusercontent.com/one-patch/onedwm/master/patchs/1000.diff): padding pertag stack<->master notitle status2d pango
 
 --------
 ## how to contribute
